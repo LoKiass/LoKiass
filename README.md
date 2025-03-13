@@ -1,4 +1,4 @@
-# Hello, I'm LoKias_ 👋
+# Hello, I'm Mattéo Diseurs (Or LoKias_) 👋
 
 Welcome to my GitHub profile! I'm a passionate and driven 20-year-old student currently pursuing my first year of graduation at **EFAC SUD LUX**.
 
