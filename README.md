@@ -4,9 +4,8 @@ Welcome to my GitHub profile! I'm a passionate and driven 20-year-old student cu
 
 ## 🌱 About Me:
 - 🎓 I'm studying Computer Science, with a focus on programming and software development.
-- 👨‍💻 I specialize in **C** and **LUA**, but I'm also exploring other languages and technologies.
-- 🛠️ Currently building my knowledge in **C++**, **C#**, and **Assembler**.
 - 🚀 I'm eager to learn more and improve my skills every day.
+- 🤺 Love doing sport.
 
 ## 💻 My Skills:
 <p align="left">
@@ -16,6 +15,7 @@ Welcome to my GitHub profile! I'm a passionate and driven 20-year-old student cu
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
 </p>
 
 ## 💻 IDE i use 
