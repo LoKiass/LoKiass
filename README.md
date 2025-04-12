@@ -31,3 +31,5 @@ Feel free to reach out if you'd like to collaborate, ask questions, or share adv
 - 🌐 My website: https://matteodiseurs-portfolio.alwaysdata.net/
 
 Looking forward to connecting and learning with the community! Let's build amazing things together.
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LoKiass&theme=dark&background=000000)](https://git.io/streak-stats)
