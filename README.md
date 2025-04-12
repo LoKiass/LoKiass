@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate and driven 20-year-old student cu
 <img src="https://cdn2.iconfinder.com/data/icons/superglyph-os/30/html5-512.png" alt="web" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45"/>
 </p>
 
 ## 💻 IDE i use 
