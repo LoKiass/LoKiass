@@ -9,21 +9,12 @@ Welcome to my GitHub profile! I'm a passionate and driven 20-year-old student cu
 - 🚀 I'm eager to learn more and improve my skills every day.
 
 ## 💻 My Skills:
-- **Languages:**
-  - **C** (Junior)
-  - **LUA** (Junior)
-  - **C++** (Basic knowledge)
-  - **C#** (Basic knowledge)
-  - **Assembler** (Basic knowledge)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
 
-- **Tools & Technologies:**
-  - Git/GitHub
-  - Text Editors like VS Code, Sublime, etc.
-  - Debugging and Profiling Tools
-
-## 🚀 Current Projects:
-- I am currently working on small projects to hone my skills and gain hands-on experience.
-- I'm also exploring game development using **LUA** for scripting and **C** for performance-critical components.
 
 ## 📫 How to Reach Me:
 Feel free to reach out if you'd like to collaborate, ask questions, or share advice.
