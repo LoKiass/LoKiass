@@ -33,4 +33,4 @@ Feel free to reach out if you'd like to collaborate, ask questions, or share adv
 Looking forward to connecting and learning with the community! Let's build amazing things together.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LoKiass&theme=dark&background=000000)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoKiass&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoKiass&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
