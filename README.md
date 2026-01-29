@@ -1,6 +1,6 @@
 # Hello, I'm Mattéo Diseurs (Or LoKias_) 👋
 
-Welcome to my GitHub profile! I'm a passionate and driven 20-year-old student currently pursuing my first year of graduation at **EAFC SUD LUX**.
+Welcome to my GitHub profile! I'm a passionate and driven 20-year-old student currently pursuing my second year of graduation at **EAFC SUD LUX**.
 
 ## 🌱 About Me:
 - 🎓 I'm studying Computer Science, with a focus on programming and software development.
