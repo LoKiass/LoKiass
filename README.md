@@ -37,9 +37,3 @@ Feel free to reach out if you'd like to collaborate, ask questions, or share adv
 - 📧 Email: diseursmat@gmail.com
 
 Looking forward to connecting and learning with the community! Let's build amazing things together.
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokiass&show_icons=true&locale=en&layout=compact" alt="lokiass" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokiass&show_icons=true&locale=en" alt="lokiass" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokiass&" alt="lokiass" /></p>
