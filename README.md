@@ -39,6 +39,5 @@ Feel free to reach out if you'd like to collaborate, ask questions, or share adv
 Looking forward to connecting and learning with the community! Let's build amazing things together.
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=LoKiass&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoKiass)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LoKiass&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LoKiass&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
